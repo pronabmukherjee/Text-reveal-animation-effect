@@ -1,0 +1,1691 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding:0;
+}
+
+body {
+  margin: 0;
+  opacity: 1;
+  z-index: 1;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background: #fff;
+  font-family: verdana;
+  background-image: linear-gradient(-45deg, #0d6eff, #cc00cc);
+} 
+
+.coding1::after {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 25%;
+  content: "C";
+  color: #fff; 
+  font-size: 100px;
+  animation: mymove 3s linear;
+}
+
+/*coding1{section}*/
+@keyframes mymove {
+  0% {
+    content: "#";
+  }
+  
+  1% {
+    content: "G"
+  }
+  
+  2% {
+    content: "2";
+  }
+  
+  3% {
+    content: "A";
+  }
+  
+  4% {
+    content: "$";
+  }
+  
+  5% {
+    content: "0";
+  }
+  
+  6% {
+    content: "M";
+  }
+  
+  7% {
+    content: "D";
+  }
+  
+  8% {
+    content: "?";
+  }
+  
+  9% {
+    content: "A";
+  }
+  
+  10% {
+    content: "E";
+  }
+  
+  11% {
+    content: "T";
+  }
+  
+  12% {
+    content: "A";
+  }
+
+  13% {
+    content: "W";
+  }
+  
+  14% {
+    content: "S";
+  }
+  
+  15% {
+    content: "T";
+  }
+  
+  16% {
+    content: "L";
+  }
+  
+  17% {
+    content: "C";
+  }
+  
+  18% {
+    content: "#";
+  }
+  
+  19% {
+    content:"P";
+  }
+  
+  20% {
+    content: "[";
+  }
+  
+  21% {
+    content: "K";
+  }
+  
+  22% {
+    content: "}";
+  }
+  
+  23% {
+    content: "H";
+  }
+  
+  24% {
+    content: "O";
+  }
+  
+  25% {
+    content: "{";
+  }
+  
+  26% {
+    content: "W";
+  }
+  
+  27% {
+    content: ")";
+  }
+  
+  28% {
+    content: "K";
+  }
+  
+  29% {
+    content: "&";
+  }
+  
+ 30% {
+    content: "@";
+  }
+  
+  31% {
+    content: "I";
+  }
+  
+  32% {
+    content: "6";
+  }
+  
+  33% {
+    content: "R";
+  }
+  
+  34% {
+    content: "S";
+  }
+  
+ 35% {
+    content: "3";
+  }
+  
+  36% {
+    content: "Y";
+  }
+  
+  37% {
+    content: "#";
+  }
+  
+  38% {
+    content: "X";
+  }
+  
+  39% {
+    content: "I";
+  }
+  
+  40% {
+    content: "O";
+  }
+  
+  41% {
+    content: "¤";
+  }
+  
+  42% {
+    content: "T";
+  }
+  
+  44% {
+    content: "¤";
+  }
+  
+ 45% {
+    content: "C";
+  }
+  
+  47% {
+    content: "J";
+  }
+  
+  49% {
+    content: "Y";
+  }
+  
+  50% {
+    content: "R";
+  }
+  
+  51% {
+    content: "W";
+  }
+  
+  52% {
+    content: "$";
+  }
+  
+  53% {
+    content: "G";
+  }
+  
+  55% {
+    content: "H";
+  }
+  
+ 57% {
+    content: "?";
+  }
+  
+  58% {
+    content: "P";
+  }
+  
+  59% {
+    content: "/";
+  }
+  
+ 61% {
+    content: "#";
+  }
+  
+  63% {
+    content: "\";
+  }
+  
+  65% {
+    content: "|";
+  }
+  
+  67% {
+    content: "7";
+  }
+  
+ 69% {
+    content: "1";
+  }
+  
+  71% {
+    content: "0";
+  }
+  
+  72% {
+    content: "1";
+  }
+  
+  75% {
+    content: "9";
+  }
+  
+ 77% {
+    content: "_";
+  }
+  
+ 79% {
+    content: "$";
+  }
+  
+  81% {
+    content: "J";
+  }
+  
+  83% {
+    content: "F";
+  }
+  
+ 83% {
+    content: "{";
+  }
+  
+  85% {
+    content: "}";
+  }
+  
+  87% {
+    content: "#";
+  }
+  
+  89% {
+    content: "8";
+  }
+  
+  90% {
+    content: "1";
+  }
+  
+  92% {
+    content: "?";
+  }
+  
+  95% {
+    content: "$";
+  }
+  
+ 97% {
+    content: "ß";
+  }
+  
+  98% {
+    content: "E";
+  }
+  
+ 99% {
+    content: "?";
+  }
+  
+  100% {
+    content: "@";
+  }
+}
+
+/*section#1[end]*/
+
+.coding2::after {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 35%;
+  content: "O";
+  color: #fff;
+  font-family: verdana;
+  font-size: 100px;
+  animation: myMove 3.7s linear;
+}
+
+/*coding2 {section}*/
+
+@keyframes myMove {
+  0% {
+    content: ";";
+  }
+  
+  2% {
+    content: "#";
+  }
+  
+  3% {
+    content: "N";
+  }
+  
+  4% {
+    content: "@";
+  }
+  
+  6% {
+    content: ">";
+  }
+  
+  8% {
+    content: "!";
+  }
+  
+  9% {
+    content: "I";
+  }
+  
+  10% {
+    content: "+";
+  }
+  
+  11% {
+    content: "M";
+  }
+  
+  12% {
+    content: "-";
+  }
+  
+  14% {
+    content: "%";
+  }
+  
+  15% {
+    content: "M";
+  }
+  
+  16% {
+    content: "0";
+  }
+  
+  17% {
+    content: "A";
+  }
+  
+  18% {
+    content: "1";
+  }
+  
+  20% {
+    content: "B";
+  }
+  
+  22% {
+    content: "j";
+  }
+  
+  23% {
+    content: "T";
+  }
+  
+  24% {
+    content: "a";
+  }
+  
+  26% {
+    content: "<";
+  }
+  
+  27% {
+    content: "A";
+  }
+  
+  28% {
+    content: ">";
+  }
+  
+  29% {
+    content: "D";
+  }
+  
+  30% {
+    content: "!";
+  }
+  
+  32% {
+    content: "$";
+  }
+  
+  33% {
+    content: "S";
+  }
+  
+  34% {
+    content: "V";
+  }
+  
+  36% {
+    content: "L";
+  }
+  
+  38% {
+    content: "M";
+  }
+  
+  
+  40% {
+    content: "\";
+  }
+  
+  42% {
+    content: "/";
+  }
+  
+  44% {
+    content: "W";
+  }
+  
+  46% {
+    content: ";";
+  }
+  
+  48% {
+    content: "=";
+  }
+  
+  49% {
+    content: "T";
+  }
+  
+  50% {
+    content: "E";
+  }
+  
+  53% {
+    content: "b";
+  }
+  
+  56% {
+    content: "q";
+  }
+  
+  58% {
+    content: "U";
+  }
+  
+  59% {
+    content: "$";
+  }
+  
+  60% {
+    content: "O";
+  }
+  
+  62% {
+    content: "¤";
+  }
+  
+  65% {
+    content: "ß";
+  }
+  
+  68% {
+    content: ">";
+  }
+  
+  71% {
+   content: "<"; 
+  }
+  
+  72% {
+    content: "K";
+  }
+  
+  73% {
+    content: "O";
+  }
+  
+  74% {
+    content: "%";
+  }
+  
+  77% {
+    content: "e";
+  }
+  
+  80% {
+    content: "8";
+  }
+  
+  81% {
+    content: "K";
+  }
+  
+  82% {
+    content: "F";
+  }
+  
+  83% {
+    content: "0";
+  }
+  
+  85% {
+    content: "X";
+  }
+  
+  86% {
+    content: "1";
+  }
+  
+  87% {
+    content: "R";
+  }
+  
+  88% {
+    content: "U";
+  }
+  
+  89% {
+    content: "D";
+  }
+  
+  92% {
+    content: "Y";
+  }
+  
+  93% {
+    content: "¤";
+  }
+  
+  95% {
+    content: "!";
+  }
+  
+  98% {
+    content: "@";
+  }
+  
+  99% {
+    content: "F";
+  }
+  
+  100% {
+    content: "$";
+  }
+}
+
+/*section#2[end]*/
+
+.coding3::after {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 45%;
+  content: "D";
+  color: #fff;
+  font-family: verdana;
+  font-size: 100px;
+  animation: mymOve 2.2s linear;
+}
+
+/*coding3 {section}*/
+
+@keyframes mymOve {
+  0% {
+    content: "!";
+  }
+  
+  3% {
+    content: "O";
+  }
+  
+  4% {
+    content: "@";
+  }
+  
+  8% {
+    content: "+";
+  }
+  
+  12% {
+    content: "-";
+  }
+  
+  14% {
+    content: "j";
+  }
+  
+  16% {
+    content: "=";
+  }
+  
+  17% {
+    content: "S";
+  }
+  
+  18% {
+    content: "K";
+  }
+  
+  20% {
+    content: "(";
+  }
+  
+  23% {
+    content: "M";
+  }
+  
+  24% {
+    content: "¤";
+  }
+  
+  28% {
+    content: ")";
+  }
+  
+  32% {
+    content: "}";
+  }
+  
+  33% {
+    content: "T";
+  }
+  
+  34% {
+    content: "d";
+  }
+  
+  36% {
+    content: "{";
+  }
+  
+  38% {
+    content: "l";
+  }
+  
+  40% {
+    content: "f";
+  }
+  
+  42% {
+    content: "Y";
+  }
+  
+  44% {
+    content: "0";
+  }
+  
+  48% {
+    content: "1";
+  }
+  
+  50% {
+    content: "A";
+  }
+  
+  51% {
+    content: "X";
+  }
+  
+  52% {
+    content: "D";
+  }
+  
+  56% {
+    content: "W";
+    
+  }
+  
+  58% {
+    content: "N";
+  }
+  
+  60% {
+    content: "5";
+  }
+  
+  62% {
+    content: "W";
+  }
+  
+  64% {
+    content: "9";
+  }
+  
+  68% {
+    content: "T";
+  }
+  
+  72% {
+    content: "Z";
+  }
+  
+  74% {
+    content: "B";
+  }
+  
+  76% {
+    content: "/";
+  }
+  
+  80% {
+    content: "\";
+  }
+  
+  84% {
+    content: "Y";
+  }
+  
+  86% {
+    content: "S";
+  }
+  
+  88% {
+    content: "D";
+  }
+  
+  92% {
+    content: "M";
+  }
+  
+  94% {
+    content: "C";
+  }
+  
+  96% {
+    
+    content: ";";
+  }
+  
+  97% {
+    content: "S";
+  }
+  
+  98% {
+    content: "N";
+  }
+  
+  99% {
+    content: "Q";
+  }
+  
+  100% {
+    content: "$";
+  }
+}
+
+/*section#3[end]*/
+
+.coding4::after{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 55%;
+  content: "I";
+  color: #fff;
+  font-family: verdana;
+  font-size: 100px;
+  animation: mymoVe 3.2s linear;
+}
+
+/*coding4 {section}*/
+
+@keyframes mymoVe {
+  0% {
+    content: "$";
+  }
+  
+  1% {
+    content: "X";
+  }
+  
+  3% {
+    content: "V";
+  }
+  
+  4% {
+    content: "V";
+  }
+  
+  5% {
+    content: "R";
+  }
+  
+  6% {
+    content: "W";
+  }
+  
+  7% {
+    content: "$";
+  }
+  
+  8% {
+    content: "(";
+  }
+  
+  9% {
+    content: "Z";
+  }
+  
+  10% {
+    content: "B";
+  }
+  
+  12% {
+    content: "C";
+  }
+  
+  13% {
+    content: "R";
+  }
+  
+  14% {
+    content: ">";
+  }
+  
+  15% {
+    content: "?";
+  }
+  
+  17% {
+    content: "$";
+  }
+  
+  18% {
+    content: "<";
+  }
+  
+  20% {
+    content: "A";
+  }
+  
+  22% {
+    content: "?";
+  }
+  
+  23% {
+    content: "L";
+  }
+  
+  24% {
+    content: "K";
+  }
+  
+  25% {
+    content: ";";
+  }
+  
+  26% {
+    content: "$";
+  }
+  
+  27% {
+    content: "C";
+  }
+  
+  28% {
+    content: "A";
+  }
+  
+  29% {
+    content: "ß";
+  }
+  
+  30% {
+    content: "W";
+  }
+  
+  31% {
+    content: "<";
+  }
+  
+  32% {
+    content: "?";
+  }
+  
+  33% {
+    content: "X";
+  }
+  
+  34% {
+    content: "¤";
+  }
+  
+  35% {
+    content: "!";
+  }
+  
+  36% {
+    content: "W";
+  }
+  
+  37% {
+    content: "P";
+  }
+  39% {
+    content: "/";
+  }
+  
+  40% {
+    content: "S";
+  }
+  
+  42% {
+    content: "!";
+  }
+  
+  43% {
+    content: "T";
+  }
+  
+  44% {
+    content: "+";
+  }
+  
+  45% {
+    content: "%";
+  }
+  
+  46% {
+    content: "=";
+  }
+  
+  47% {
+    content: "H";
+  }
+  
+  49% {
+    content: "(";
+  }
+  
+  50% {
+    content: "L";
+  }
+  
+  52% {
+    content: "}";
+  }
+  
+  53% {
+    content: "+";
+  }
+  
+  54% {
+    content: "{";
+  }
+  
+  55% {
+    content: "+";
+  }
+  
+  56% {
+    content: "[";
+  }
+  
+  57% {
+    content: "-";
+  }
+  
+  58% {
+    content: "C";
+  }
+  
+  60% {
+    content: "U";
+  }
+  
+  62% {
+    content: "]";
+  }
+  
+  63% {
+    content: "C";
+  }
+  
+  65% {
+    content: "-";
+  }
+  
+  66% {
+    content: "Q";
+  }
+  
+  67% {
+    content: ">";
+  }
+  
+  70% {
+    content: "G";
+  }
+  
+  72% {
+    content: "R";
+  }
+  
+  73% {
+    content: "<";
+  }
+  
+  75% {
+    content: "(";
+  }
+  
+  76% {
+    content: "Z";
+  }
+  
+  77% {
+    content: "?";
+  }
+  
+  80% {
+    content: "G";
+  }
+  
+  82% {
+    content: "Y";
+  }
+  
+  83% {
+    content: ":";
+  }
+  
+  85% {
+    content: "{";
+  }
+  
+  86% {
+    content: "X";
+  }
+  
+  87% {
+    content: ";";
+  }
+  
+  90% {
+    content: "X";
+  }
+  
+  92% {
+    content: "N";
+  }
+  
+  93% {
+    content: "#";
+  }
+  
+  95% {
+    content: "}";
+  }
+  
+  96% {
+    content: "I";
+  }
+  
+  97% {
+    content: "?";
+  }
+  
+  99% {
+    content: "?";
+  }
+  
+  100% {
+    content: "=";
+  }
+}
+
+/*section#4[end]*/
+
+.coding5::after {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 65%;
+  content: "N";
+  color: #fff;
+  font-family: verdana;
+  font-size: 100px;
+  animation: mymovE 2.9s linear;
+}
+
+/*coding5 {section}*/
+
+@keyframes mymovE {
+  0% {
+    content: "{";
+  }
+  
+  1% {
+    content: "X";
+  }
+  
+  2% {
+    content: "B";
+  }
+  
+  5% {
+    content: "&";
+  }
+  
+  7% {
+    content: ">";
+  }
+  
+  8% {
+    content: "$";
+  }
+  
+  9% {
+    content: "w";
+  }
+  
+  10% {
+    content: "E";
+  }
+  
+  12% {
+    content: "D";
+  }
+  
+  15% {
+    content: "!";
+  }
+  
+  16% {
+    content: "H";
+  }
+  
+   17% {
+    content: "#";
+  }
+  
+  20% {
+    content: "G";
+  }
+  
+  22% {
+    content: "+";
+  }
+  
+  23% {
+    content: "E";
+  }
+  
+  24% {
+    content: "H";
+  }
+  
+  25% {
+    content: "%";
+  }
+  
+   27% {
+    content: "&";
+  }
+  
+  30% {
+    content: "S";
+  }
+  
+  32% {
+    content: ":";
+  }
+  
+  35% {
+    content: "/";
+  }
+  
+   37% {
+    content: "@";
+  }
+  
+  40% {
+    content: "W";
+  }
+  
+  42% {
+    content: "#";
+  }
+  
+  43% {
+    content: "h";
+  }
+  
+  44% {
+    content: "Q";
+  }
+  
+  45% {
+    content: "\";
+  }
+  
+   47% {
+     content: "{";
+  }
+  
+  50% {
+    content: "I";
+  }
+  
+  55% {
+    content: "¤";
+  }
+  
+   57% {
+     content: "}";
+  }
+  
+  58% {
+    content: "I";
+  }
+  
+  60% {
+    content: "B";
+  }
+  
+  62% {
+    content: "-";
+  }
+  
+  65% {
+    content: "{";
+  }
+  
+   67% {
+    content: "<";
+  }
+  
+  70% {
+    content: "I";
+  }
+  
+  72% {
+    content: "!";
+  }
+  
+  75% {
+    content: "}";
+  }
+  
+  76% {
+    content: "S";
+  }
+  
+   77% {
+    content: "$";
+  }
+  
+  80% {
+    content: "U";
+  }
+  
+  82% {
+    content: "Q";
+  }
+  
+  85% {
+    content: "U";
+  }
+  
+   87% {
+    content: "¤";
+  }
+  
+  90% {
+    content: "L";
+  }
+  
+  92% {
+    content: "=";
+  }
+  
+  93% {
+    content: "ß";
+  }
+  
+  94% {
+    content: "B";
+  }
+  
+  95% {
+    content: "I";
+  }
+  
+   97% {
+    content: "ß";
+  }
+  
+  98% {
+    content: "A";
+  }
+  
+  99% {
+    content: "I";
+  }
+  
+  100% {
+    content: "$";
+  }
+}
+
+/*section#5[end]*/
+
+.coding6::after {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 75%;
+  content: "G";
+  color: #fff;
+  font-family: verdana;
+  font-size: 100px;
+  animation: mymovEE 3.4s linear;
+}
+
+@keyframes mymovEE {
+  0% {
+    content: "#";
+  }
+  
+  1% {
+    content: "X";
+  }
+  
+  2% {
+    content: "K";
+  }
+  
+  4% {
+    content: "=";
+  }
+  
+  6% {
+    content: "0";
+  }
+  
+  8% {
+    content: "1";
+  }
+  
+  10% {
+    content: "A";
+  }
+  
+  12% {
+    content: ";";
+  }
+  
+  14% {
+    content: "¤";
+  }
+  
+  16% {
+    content: "W";
+  }
+  
+  18% {
+    content: "X";
+  }
+  
+  20% {
+    content: "L";
+  }
+  
+  22% {
+    content: "/";
+  }
+  
+  24% {
+    content: "}";
+  }
+  
+  26% {
+    content: "J";
+  }
+  
+  28% {
+    content: "y";
+  }
+  
+  30% {
+    content: "+";
+  }
+  
+  32% {
+    content: "P";
+  }
+  
+  34% {
+    content: ">";
+  }
+  
+  36% {
+     content: "5";
+  }
+  
+  38% {
+    content: "3";
+  }
+  
+  40% {
+    content: "9";
+  }
+  
+  42% {
+    content: "7";
+  }
+  
+  44% {
+    content: "1";
+  }
+  
+  46% {
+    content: "Q";
+  }
+  
+  48% {
+    content: "$";
+  }
+  
+  
+  50% {
+    content: "T";
+  }
+  
+  52% {
+    content: ")";
+  }
+  
+  54% {
+    content: "}";
+  }
+  
+  56% {
+    content: "U";
+  }
+  
+  58% {
+    content: "E";
+  }
+  
+  60% {
+    content: "?";
+  }
+  
+  62% {
+    content: "F";
+  }
+  
+  64% {
+    content: "_";
+  }
+  
+  66% {
+    content: "=";
+  }
+  
+  67% {
+    content: "D";
+  }
+  
+  68% {
+    content: "q";
+  }
+  
+  70% {
+    content: "8";
+  }
+  
+  71% {
+    content: "K";
+  }
+  
+  
+  72% {
+    content: "K";
+  }
+  
+  73% {
+    content: "W";
+  }
+  
+  74% {
+    content: "j";
+  }
+  
+  75% {
+    content: "$";
+  }
+  
+  76% {
+    content: "1";
+  }
+  
+  77% {
+    content: "C";
+  }
+  
+  78% {
+    content: "0";
+  }
+  
+  80% {
+    content: ";";
+  }
+  
+  81% {
+    content: "L";
+  }
+  
+  82% {
+    content: "<";
+  }
+  
+  83% {
+    content: "G";
+  }
+  
+  84% {
+    content: "}";
+  }
+  
+  85% {
+    content: "O";
+  }
+  
+  86% {
+    content: "0";
+  }
+  
+  88% {
+    content: "0";
+  }
+  
+  90% {
+    content: "1";
+  }
+  
+  91% {
+    content: "x";
+  }
+  
+  92% {
+    content: "?";
+  }
+  
+  93% {
+    content: "y";
+  }
+  
+  94% {
+    content: "!";
+  }
+  
+  95% {
+    content: "a";
+  }
+  
+  96% {
+    content: "¤";
+  }
+  
+  98% {
+    content: "$";
+  }
+  
+  100% {
+    content: "!";
+  }
+}
+
+@media(max-width: 867px) {
+  
+  .coding1 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 15%;
+  }
+  
+  .coding2 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 30%;
+  }
+  
+  .coding3 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 45%;
+  }
+  
+  .coding4 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 60%;
+  }
+  
+  .coding5 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 75%;
+  }
+  
+  .coding6 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 90%;
+  }
+}
+  
